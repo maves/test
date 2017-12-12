@@ -7,4 +7,8 @@ forse sto capendo
 capiamo?
 
 c'è un po' di confusione!
+<<<<<<< HEAD
 ancora problemi
+=======
+basta problemi
+>>>>>>> refs/remotes/origin/master
